@@ -1,0 +1,18 @@
+/* .column {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+  padding: 6px;
+  margin: 20px;
+  background-color: #f1f1f1;
+} */
+
+.cats p {
+  background-color: coral;
+  font-weight: bold;
+}
+.dogs p {
+  background-color: steelblue;
+  font-style: italic;
+}
